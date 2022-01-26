@@ -11,7 +11,7 @@ export default{
     props:{
         title:{
             type:String,
-            default:"Hello World"
+            default:"Task Tracker"
         },
         showAddTask:{
             type:Boolean
